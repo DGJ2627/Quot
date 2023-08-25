@@ -1,17 +1,18 @@
 # quotes_app
 
-![quote1](https://github.com/DGJ2627/Quot/assets/114165275/58fa08a8-0df4-4dc0-97c5-f79710228639)]
+![quote1](https://github.com/DGJ2627/Quot/assets/114165275/3050da12-1023-4585-910c-4938420f26c1)
+
+
+
+
+![quote2](https://github.com/DGJ2627/Quot/assets/114165275/1938b380-2b09-4119-be29-3aecd6876e7a)
 
 
 
 
 
-![quote2](https://github.com/DGJ2627/Quot/assets/114165275/5cd9b075-10d7-4bcd-9c32-8d59cfe92bda)
+![quote3](https://github.com/DGJ2627/Quot/assets/114165275/566ceee9-9da6-4f77-9f09-9c478d87adff)
 
-
-
-
-![quote3](https://github.com/DGJ2627/Quot/assets/114165275/4c70925a-75a8-4dc2-87f5-182d1fd94753)
 
 
 
@@ -21,23 +22,32 @@
 
 
 
-![quote5](https://github.com/DGJ2627/Quot/assets/114165275/98cac8eb-f8e2-4d58-a904-0be0546224d4)
-
-
-
-
-![quote6](https://github.com/DGJ2627/Quot/assets/114165275/aa35a188-bb0f-4cb3-8a38-963b6f6196ae)
-
-
-
-
-![quote7](https://github.com/DGJ2627/Quot/assets/114165275/f3b40aec-bd5e-4021-a5fe-dcde0ea0c7ec)
+![quote4](https://github.com/DGJ2627/Quot/assets/114165275/58630104-dd0c-4fea-9fa2-9c64c991c925)
 
 
 
 
 
-![quote8](https://github.com/DGJ2627/Quot/assets/114165275/df0bfd79-0cf5-4ff4-8366-018c7d10e3f6)
+
+![quote6](https://github.com/DGJ2627/Quot/assets/114165275/cabfeb31-cf74-4949-be13-287c3d468f78)
+
+
+
+
+
+
+
+
+![quote5](https://github.com/DGJ2627/Quot/assets/114165275/39d340b9-84fd-4dbe-9bac-64fca24985e7)
+
+
+
+
+
+
+
+![quote7](https://github.com/DGJ2627/Quot/assets/114165275/92ae5864-5e2d-41b1-9a94-848a8e715f86)
+
 
 
 
